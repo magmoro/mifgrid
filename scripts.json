@@ -1,0 +1,11 @@
+{
+	"Core":{
+		"Mif.Grid":{
+			"deps": ["Mif.Grid"],
+			"desc": "Mif.Grid control base file"
+		},
+	},
+	"Plugins":{
+
+	}
+}
